@@ -75,6 +75,6 @@ section{
         align-items: center;
         position: absolute;
         right: 0px;
-/*         display: none; */
+        display: none;
     }
 }
